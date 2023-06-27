@@ -7,7 +7,9 @@ L'app è progettata per consentire all'utente di gestire l'elenco degli ingredie
 
 Il prototipo è stato presentato come il lavoro finale di un gruppo di 6 persone: Io, Valerio Mesiti, Gabriele Moretti, Antonio Sacco, Alessandro Pandolfi, Giacomo Porfiri.
 
+
 English version:
+
 Sana is the prototype of an app to manage one's ingredients and find recipes to cook with those. The prototype was presented as the final project of the "Human Computer Interaction" exam at Sapienza University of Rome.
 
 The app was developed following the traditional stages of development for any app: Conceptualization, Market analysis, Planning and Designing, Testing.
